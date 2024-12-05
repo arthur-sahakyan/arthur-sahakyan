@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Arthur Sahakyan</h1>
 <h3 align="center">A passionate backend developer from Armenia | convergent thinker</h3>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/YNqsJbmb_yMAAAAd/coding.gif">
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/coding-gif-24625099.gif">
 
 - ⚡ Why do I love programming? **I am passionate about technology and I like to use my free time to learn new things and explore new possibilities. I do this by developing demo projects with different technologies and reading tech articles.**
 

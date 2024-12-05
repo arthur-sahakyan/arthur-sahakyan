@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Arthur Sahakyan</h1>
 <h3 align="center">A passionate backend developer from Armenia | convergent thinker</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arthur-sahakyan&label=Profile%20views&color=0e75b6&style=flat" alt="arthur-sahakyan" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arthur-sahakyan" alt="arthur-sahakyan" /></a> </p>
-
 - 📫 How to reach me **arthur.sahakyan.dev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
